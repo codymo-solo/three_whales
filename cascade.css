@@ -1,0 +1,12 @@
+body {
+  color: crimson;
+  line-height: 1.5;
+}
+
+h1 {
+  font-style: italic;
+}
+
+.title {
+  text-decoration: underline 2px solid;
+}
